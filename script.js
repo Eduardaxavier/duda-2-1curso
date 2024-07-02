@@ -15,38 +15,38 @@ const perguntas = [
           ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial,a IA vem ajudando na sustentabilidade?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Para ajudar na sustentabilidade a IA vem com fatores como:Redução de desperdicios,mais eficiência energética e soluções integradas.",
+                afirmacao: "Assim ajudando a sociedade."
             },
             ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Qual o impacto da IA na sociedade? ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Em muitos casos, ela está sendo usada para aumentar a eficiência e a produtividade."
+                afirmacao: "Desde então a IA vem sendo usada para qualquer questão."
             },
             ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "A ideia de que a IA pode criar novas oportunidades de emprego e melhorar as habilidades humanas?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "A IA pode criar novos empregos que exigem habilidades cognitivas mais complexas.",
+                afirmacao: "Fazendo assim alguns empregos deixarem de existir na humanidade."
             },
             ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Qual o impacto da inteligência artificial no meio ambiente?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "O uso da IA também pode ter um impacto negativo ao meio ambiente, aumentando as emissões de gases de efeito estufa e a poluição.",
+                afirmacao: "Um estudo publicado na revista Nature Climate Change, em 2022, estimou que a IA poderá representar 10% das emissões globais de gases de efeito estufa até o ano de 2040."
             },
             ]
     },
